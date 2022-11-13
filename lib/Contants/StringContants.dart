@@ -1,0 +1,1 @@
+// ignore_for_file: constant_identifier_names, file_namesconst String AppName = 'Send To Get';const String Welcome = 'Welcome';const String Login = 'Login';const String HitNumber = 'Number';const String HitPssword = 'Password';

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "606279669366",
+    "project_id": "sendtoget-322ec",
+    "storage_bucket": "sendtoget-322ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606279669366:android:11b59619538a51d1793157",
+        "android_client_info": {
+          "package_name": "com.example.sendtoget"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606279669366-2gbqtvqksjl1ag7c42dtp265u012j01g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeyNqaJEz7JZp8nBOIO0qnCsejgaGpq30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606279669366-2gbqtvqksjl1ag7c42dtp265u012j01g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
